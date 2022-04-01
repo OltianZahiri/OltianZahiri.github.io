@@ -32,7 +32,7 @@ display: block;
 .clear{
  clear: both;
 }
-.line.light {{
+.line.light {
  border-bottom: 1px solid #626262;
 }
  input {
@@ -43,5 +43,4 @@ display: block;
  font-family: "Helvetica Neue";
  color: #444;
  font-weight: 300;
- border-bottom: 1px solid #626262;
 }
